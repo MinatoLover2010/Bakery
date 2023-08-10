@@ -1,0 +1,112 @@
+
+
+.Div1{
+    background-image: url(/Images/2.jpeg);
+    background-size: 100%;
+    ;
+    margin: -5px;
+    padding-bottom: 100px;
+}
+.li1{
+list-style: none;
+display: flex;
+margin-left: 30px;
+margin-top: 30px;
+}
+.link1{
+color:rgb(124, 108, 108);
+text-decoration: none;
+font-size: 20px;
+}
+.link1:hover{
+    color: white;
+}
+.div3{
+display: flex;
+justify-content: space-between;
+margin-top: 10px;
+
+}
+
+.h2{
+    font-size: 50px;
+    color: ghostwhite;
+}
+.h11{
+    font-size: 70px;
+    color: ghostwhite;
+}
+.div2{
+    margin-left: 400px;
+
+}
+.div4{
+    text-align: center;
+}
+.param1{
+ color: rgb(240, 205, 205);   
+ font-size: 30px;
+}
+.param2{
+    color: white;
+    font-size: 16px;
+}
+.button1{
+margin: 0px 16px 0px 0px;
+padding: 5px;
+border-radius: 20px;
+
+}
+.button1:hover{
+   background-color: white; 
+   color: black;
+}
+
+.button2{
+    margin: 0px 16px 0px 0px;
+padding: 5px;
+border-radius: 20px;
+}
+
+.btn_1{
+    margin: 0px 16px 0px 0px;
+    padding: 15px;
+    background-color: #8e7754;
+    color:white ;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+.btn_2{
+    margin: 0px 16px 0px 0px;
+    padding: 15px;
+    background-color: transparent;
+    color:white ;
+    border-radius: 10px;
+    border: solid white 2px;
+    font-size: 20px;
+}
+.div5{
+    display: flex;
+    justify-content: space-between;
+}
+.div6{
+    margin-left: 100px;
+}
+.div6 h1{
+    margin-left: 200px;
+}
+.div6 p{
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.div7{
+    margin-top: -350px;
+}
+.div7 h1{
+    margin-left:200px ;
+}
+.div7 p{
+    font-size: 16px;
+    font-family: sans-serif;
+}
